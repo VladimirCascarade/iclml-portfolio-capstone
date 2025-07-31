@@ -120,7 +120,7 @@ Our XGBoost model successfully detects DDoS attacks with high accuracy and demon
 ├── data_sheet.md                              # Dataset documentation
 ├── model_card.md                              # Model documentation
 ├── README.md                                  # Project overview
-└── data/                                      # Dataset directory (not included)
+└── data/                                      # Dataset directory containing Parquet optimized files to save on disk size
 ```
 
 ## Usage
@@ -132,10 +132,9 @@ Our XGBoost model successfully detects DDoS attacks with high accuracy and demon
 
 **Running the Project:**
 
-1. Download the CIC-DDoS2019 dataset from the official source
-2. Place the dataset files in the `data/` directory
-3. Open and run the Jupyter notebook
-4. Follow the analysis steps to reproduce the results
+1. Clone the repository
+2. Open and run the Jupyter notebook
+3. Follow the analysis steps to reproduce the results
 
 **Model Deployment:**
 The trained XGBoost model can be deployed for real-time DDoS detection by:
