@@ -147,6 +147,6 @@ The trained XGBoost model can be deployed for real-time DDoS detection by:
 
 ## Contact Details
 
-For questions about this project or the DDoS detection model, please refer to the project documentation or contact the Canadian Institute for Cybersecurity for dataset-related inquiries.
+Contact the Canadian Institute for Cybersecurity for dataset-related inquiries.
 
 **Dataset Source:** [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/ddos-2019.html)
